@@ -1,1 +1,0 @@
-# Automatic-diagnosis-of-craters-boulders-from-Orbiter-High-Resolution-Camera-OHRC-images-
